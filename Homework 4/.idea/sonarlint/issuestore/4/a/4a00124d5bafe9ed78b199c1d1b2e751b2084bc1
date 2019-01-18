@@ -1,0 +1,18 @@
+
+œ%squid:RedundantThrowsDeclarationCheck™"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(•ªÈ›úÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheck¦"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(¢¿’¦ýÿÿÿÿ
+—%squid:RedundantThrowsDeclarationCheck²"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(¿ÎÇ¥
+œ%squid:RedundantThrowsDeclarationCheck¾"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(ÀËÝÉþÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheckÉ"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(£´Úäüÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheckÕ"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(¼Í¥«þÿÿÿÿ
+—%squid:RedundantThrowsDeclarationChecká"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Ê¥Þ¤
+œ%squid:RedundantThrowsDeclarationCheckì"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(Óê‡žýÿÿÿÿ
+—%squid:RedundantThrowsDeclarationCheck÷"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(ÝœÊÜ
+Esquid:S1481š"(Remove this unused "sum" local variable.(©ŒºÉûÿÿÿÿ
+Jsquid:S1481ï"-Remove this unused "expected" local variable.(õÔÍ–úÿÿÿÿ
+Jsquid:S1481ú"-Remove this unused "expected" local variable.(õÔÍ–úÿÿÿÿ
+dsquid:S00112™"FDefine and throw a dedicated exception instead of using a generic one.(•ªÈ›úÿÿÿÿ
+dsquid:S00112Õ"FDefine and throw a dedicated exception instead of using a generic one.(¼Í¥«þÿÿÿÿ
+_squid:S00112á"FDefine and throw a dedicated exception instead of using a generic one.(Ê¥Þ¤
+Ysquid:S1854ï"<Remove this useless assignment to local variable "expected".(õÔÍ–úÿÿÿÿ
+Ysquid:S1854ú"<Remove this useless assignment to local variable "expected".(õÔÍ–úÿÿÿÿ

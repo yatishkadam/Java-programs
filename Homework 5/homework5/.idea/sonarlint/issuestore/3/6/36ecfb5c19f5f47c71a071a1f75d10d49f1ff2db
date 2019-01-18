@@ -1,0 +1,23 @@
+
+\squid:S3878"8Remove this array creation and simply pass the elements.(øõ»¶øÿÿÿÿ8µÆÁ×÷,
+[squid:S1481Ğ"7Remove this unused "cashRewardForHouse" local variable.(‹¶ÕÇüÿÿÿÿ8µÆÁ×÷,
+W
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(‰Ğ©±8µÆÁ×÷,
+W
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(‰èÚÇ8µÆÁ×÷,
+xsquid:S3008"ZRename this field "single_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶²¸8»¯‹â÷,
+\
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8ÿèšß÷,
+@squid:S1643å"Use a StringBuilder instead.(­ÜŠÿûÿÿÿÿ8ñÊù×÷,
+W
+squid:S106Û"9Replace this use of System.out or System.err by a logger.(¯Ñ•Æ8µÆÁ×÷,
+j$squid:AssignmentInSubExpressionCheck9".Extract the assignment out of this expression.(ğ€ï€ÿÿÿÿÿ8±­Ö÷,
+vsquid:S12269"SIntroduce a new variable instead of reusing the parameter "numberOfCardInInitHand".(ğ€ï€ÿÿÿÿÿ8±­Ö÷,
+:squid:S1643í"Use a StringBuilder instead.(Í…á~8¨åß÷,
+wsquid:S1450"TRemove the "state" field and declare it as a local variable in the relevant methods.(µîŠ©øÿÿÿÿ8¦«”»÷,
+W
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(ßÓ±ç8µÆÁ×÷,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ßì–şÿÿÿÿ
+W
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(–Üš8µÆÁ×÷,
+jsquid:S1854Õ"FRemove this useless assignment to local variable "cashRewardForHouse".(×ª„Øüÿÿÿÿ8µÆÁ×÷,

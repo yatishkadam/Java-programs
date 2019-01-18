@@ -1,0 +1,6 @@
+
+Qsquid:S1068:"3Remove this unused "cardRankForKing" private field.(¸ÞÔ´8º´Ãß÷,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ßì–þÿÿÿÿ
+Ksquid:S1068"(Remove this unused "hand" private field.(Í¼Ççÿÿÿÿÿ8º´Ãß÷,
+Jsquid:S1068",Remove this unused "pairHand" private field.(ù –Î8º´Ãß÷,
+]squid:S10689":Remove this unused "shortNameOfCardForKing" private field.(Šƒòóùÿÿÿÿ8º´Ãß÷,

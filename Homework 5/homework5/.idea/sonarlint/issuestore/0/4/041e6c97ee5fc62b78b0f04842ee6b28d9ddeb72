@@ -1,0 +1,18 @@
+
+Rsquid:S1068<"4Remove this unused "cardRankForSeven" private field.(σ‰φ¨8ω¥κήχ,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ΆΙύÿÿÿÿ
+Wsquid:S1068>"4Remove this unused "cardRankForEight" private field.(Γ…ώÿÿÿÿ8ω¥κήχ,
+Qsquid:S1068:"3Remove this unused "cardRankForFive" private field.(δΪέν8ω¥κήχ,
+Bsquid:S1068X"+Remove this unused "cardTen" private field.(®™ΆΦ
+^squid:S1068;";Remove this unused "shortNameOfCardForSeven" private field.(ό„ΰήωÿÿÿÿ8ω¥κήχ,
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ήίμ–ώÿÿÿÿ
+]squid:S10689":Remove this unused "shortNameOfCardForFive" private field.(Òϊ€ωÿÿÿÿ8ω¥κήχ,
+Rsquid:S10687"4Remove this unused "cardRankForThree" private field.(―™‚8ΦΫχ,
+]squid:S1068?":Remove this unused "shortNameOfCardForNine" private field.(Π’υΩϊÿÿÿÿ8ω¥κήχ,
+^squid:S10686";Remove this unused "shortNameOfCardForThree" private field.(ΔΈ­ψÿÿÿÿ8ΦΫχ,
+Gsquid:S1068Z"+Remove this unused "cardTwo" private field.(·Δ‰•ωÿÿÿÿ
+]squid:S1068A":Remove this unused "shortNameOfCardForKing" private field.(ƒςσωÿÿÿÿ8ω¥κήχ,
+Qsquid:S1068@"3Remove this unused "cardRankForNine" private field.(²®†β8ω¥κήχ,
+^squid:S1068=";Remove this unused "shortNameOfCardForEight" private field.(μΉΛ›ώÿÿÿÿ8ω¥κήχ,
+Qsquid:S1068B"3Remove this unused "cardRankForKing" private field.(ΈήΤ΄8ω¥κήχ,
+squid:S1186“"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½ΔΡεϊÿÿÿÿ
