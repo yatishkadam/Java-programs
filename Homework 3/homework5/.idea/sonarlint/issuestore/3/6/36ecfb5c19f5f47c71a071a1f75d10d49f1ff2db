@@ -1,9 +1,0 @@
-
-vsquid:S12268"SIntroduce a new variable instead of reusing the parameter "numberOfCardInInitHand".(ğ€ï€ÿÿÿÿÿ8±­Ö÷,
-j$squid:AssignmentInSubExpressionCheck8".Extract the assignment out of this expression.(ğ€ï€ÿÿÿÿÿ8±­Ö÷,
-Bsquid:S2629â"$Invoke method(s) only conditionally.(ÎÅòI8ÿ‹ì·ø,
-Vsquid:S2629Ë"7Use the built-in formatting to construct this argument.(áÄğë8­³¶ø,
-@squid:S1643à"Use a StringBuilder instead.(­ÜŠÿûÿÿÿÿ8ñÊù×÷,
-:squid:S1643í"Use a StringBuilder instead.(Í…á~8¨åß÷,
-xsquid:S3008"ZRename this field "single_instance" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶²¸8»¯‹â÷,
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ßì–şÿÿÿÿ
